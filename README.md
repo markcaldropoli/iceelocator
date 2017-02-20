@@ -1,5 +1,5 @@
 # ICEE Locator
-iOS App - Built with Swift & Ruby Pods
+iOS App - Built with Swift & Python (& Ruby to install Pods)
 
 **Won Best Reverse Engineering App at BrickHack 3**
 
