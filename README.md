@@ -1,6 +1,6 @@
 # [ICEE Locator](http://github.com/markcaldropoli/iceelocator/)
 
-[ICEE Locator](https://github.com/markcaldropoli/iceelocator) provides users the ability to find the nearest location carrying ICEE's based on their current location. The app was built by [Mark Caldropoli](https://www.github.com/markcaldropoli) and [Emily Lakic](https://www.github.com/emilylakic) at BrickHack 3 and won the award for the **Best Reverse Engineering App**.
+[ICEE Locator](https://devpost.com/software/icee-locator) provides users the ability to find the nearest location carrying ICEE's based on their current location. The app was built by [Mark Caldropoli](https://www.github.com/markcaldropoli) and [Emily Lakic](https://www.github.com/emilylakic) at BrickHack 3 and won the award for the **Best Reverse Engineering App**.
 
 ### How We Built It
 
